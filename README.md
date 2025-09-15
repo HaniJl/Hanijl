@@ -1,29 +1,17 @@
 # Hi 👋, I'm Debbie Johnson
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🎓 International student majoring in Cybersecurity (Sophomore).
 
-- 📚 I’m studing to complete my Python certifications
+- 💻 Currently learning programming fundamentals and expanding my skills in networking & security.
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 🚀 Interested in cyber defense, financial markets, and building projects that combine tech with strategy.
 
 - 👨🏻‍💻 Love programming and resolving problems
 
-- 🧠 I like to learn something new
+- 📚 Always exploring new tools, coding practices, and frameworks.
 
-- 📫 How to reach me **dejohns2@wsc.edu**
-
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 📫 How to reach me **hajala01@wsc.edu**
 
 
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
-
-### Education
-
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+I’m an international student passionate about cybersecurity, technology, and problem-solving. I enjoy exploring new tools, building projects, and learning how tech shapes the world.
