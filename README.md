@@ -1,4 +1,4 @@
-# Hi 👋, I'm Debbie Johnson
+# Hi 👋, I'm Hani Jalali
 ## About Me
 
 - 🎓 International student majoring in Cybersecurity (Sophomore).
@@ -15,3 +15,4 @@
 
 
 I’m an international student passionate about cybersecurity, technology, and problem-solving. I enjoy exploring new tools, building projects, and learning how tech shapes the world.
+
